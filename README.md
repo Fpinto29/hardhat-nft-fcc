@@ -1,11 +1,5 @@
 # The Ultimate NFT Repo
 
-*[⌨️ (20:28:51) Lesson 14: Hardhat NFTs ](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=73731s)*
-
-[Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-
-*This repo has been updated to work with Goerli over Rinkeby.*
-
 <br/>
 <p align="center">
 <img src="./images/randomNft/pug.png" width="225" alt="NFT Pug">
@@ -16,7 +10,7 @@
 </p>
 <br/>
 
-We go through creating 3 different kinds of NFTs.
+It has 3 different kinds of NFTs.
 
 1. A Basic NFT
 2. IPFS Hosted NFT 
